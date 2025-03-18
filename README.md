@@ -1,5 +1,3 @@
-## CS6400 Database Systems Concepts and Design Project
-
 This project is to build a web application which can update inventory, track sales, maintain repair history, and let customers and users search inventory and generate reports.
 - Inventory clerks, who add vehicles to inventory
 - Salespeople, who will only have access to searching available inventory, and entering sales transactions
@@ -9,7 +7,7 @@ This project is to build a web application which can update inventory, track sal
 We stored all data in a relational database, and implemented the database schemas using MySQL, then connect the MySQL database to PHP using phpMyAdmin.
 
 ## Authors
-Team054:
+
 Team member1:  Lingwei Zhan  
 Team member2:  Yuguo Zhong  
 Team member3:  Yumei Wang
